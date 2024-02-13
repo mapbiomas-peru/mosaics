@@ -1,0 +1,8 @@
+tables/
+**/.vscode
+**.zip
+*.cvs
+
+#**/Mosaic_Calculation_evalero.ipynb
+**/temporal_code
+**.pyc
