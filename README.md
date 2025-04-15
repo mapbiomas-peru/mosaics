@@ -4,8 +4,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto de manera correcta.
 
 ---
 
-### 1️⃣ **Crear una cuenta de Google Earth Engine (GEE)** 🌍
-- Si aún no tienes una cuenta en Google Earth Engine, [regístrate aquí](https://signup.earthengine.google.com/).
+### 1️⃣ **Contar con una cuenta de Google Earth Engine (GEE)** 🌍
 
 ### 2️⃣ **Instalar y configurar la librería Google Earth Engine en Python** 🐍
 - Es recomendable usar Python **3.10.x** para una instalación sin problemas.
